@@ -4,7 +4,7 @@ Project 0 Getting Started
 **University of Pennsylvania, CIS 565: GPU Programming and Architecture, Project 0**
 
 * Keyu Lu
-  * keyulureels.com
+  * www.keyulureels.com
   * www.linkedin.com/in/keyu-lu
 * Tested on: Windows 10, Dell Oman, NVIDIA GeForce RTX 2060
 
