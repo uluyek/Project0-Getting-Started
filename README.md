@@ -9,7 +9,7 @@ Project 0 Getting Started
 * Tested on: Windows 10, Dell Oman, NVIDIA GeForce RTX 2060
 
 ### Readme
-#### Project 0:
+#### Project 0 Screenshot Submission:
 ##### Part 3.1.1
 ![My Image](https://github.com/uluyek/Project0-Getting-Started/blob/main/565part1.png)
 ##### Part 3.1.2
